@@ -1,0 +1,14 @@
+D:\GitHub\Net\transferencia-bancaria\obj\Debug\netcoreapp3.1\SIMPLES.Bank.csproj.AssemblyReference.cache
+D:\GitHub\Net\transferencia-bancaria\obj\Debug\netcoreapp3.1\SIMPLES.Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Net\transferencia-bancaria\obj\Debug\netcoreapp3.1\SIMPLES.Bank.AssemblyInfoInputs.cache
+D:\GitHub\Net\transferencia-bancaria\obj\Debug\netcoreapp3.1\SIMPLES.Bank.AssemblyInfo.cs
+D:\GitHub\Net\transferencia-bancaria\obj\Debug\netcoreapp3.1\SIMPLES.Bank.csproj.CoreCompileInputs.cache
+D:\GitHub\Net\transferencia-bancaria\bin\Debug\netcoreapp3.1\SIMPLES.Bank.exe
+D:\GitHub\Net\transferencia-bancaria\bin\Debug\netcoreapp3.1\SIMPLES.Bank.deps.json
+D:\GitHub\Net\transferencia-bancaria\bin\Debug\netcoreapp3.1\SIMPLES.Bank.runtimeconfig.json
+D:\GitHub\Net\transferencia-bancaria\bin\Debug\netcoreapp3.1\SIMPLES.Bank.runtimeconfig.dev.json
+D:\GitHub\Net\transferencia-bancaria\bin\Debug\netcoreapp3.1\SIMPLES.Bank.dll
+D:\GitHub\Net\transferencia-bancaria\bin\Debug\netcoreapp3.1\SIMPLES.Bank.pdb
+D:\GitHub\Net\transferencia-bancaria\obj\Debug\netcoreapp3.1\SIMPLES.Bank.dll
+D:\GitHub\Net\transferencia-bancaria\obj\Debug\netcoreapp3.1\SIMPLES.Bank.pdb
+D:\GitHub\Net\transferencia-bancaria\obj\Debug\netcoreapp3.1\SIMPLES.Bank.genruntimeconfig.cache
