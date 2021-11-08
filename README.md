@@ -3,4 +3,4 @@
 ## POO na prática: Criando uma aplicação
 
 ## Professor: Eliézer Zarpelão
-Githun: [github.com/elizarp](https://github.com/elizarp)
+Github: [github.com/elizarp](https://github.com/elizarp)
